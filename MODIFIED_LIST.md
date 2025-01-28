@@ -1,7 +1,9 @@
 - EquipParamGoods (Ninjutsu) 
 
 Bloodsmoke Ninjutsu 
-Puppet Ninjutsu    
+
+Puppet Ninjutsu  
+
 Bestowal Ninjutsu   
 
 
