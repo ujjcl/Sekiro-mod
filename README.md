@@ -16,7 +16,7 @@ This mod eliminates Spirit Emblem costs for **3 Ninjutsu** **9 combat arts** **4
 ## Modified Content   
 | Category          | Quantity | Examples Included |
 |-------------------|----------|-------------------|
-| **Ninjutsu**      | 3        | Bloodsmoke, Puppet,Bestowal |
+| **Ninjutsu**      | 3        | Bloodsmoke, Puppet, Bestowal |
 | **Combat Arts**   | 9        | Ashina Cross, Mortal Draw |
 | **Prosthetic Tools** | 40     | Shuriken, Flame Vent, Mist Raven |
 
