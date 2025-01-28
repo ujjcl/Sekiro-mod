@@ -8,7 +8,7 @@ This mod eliminates Spirit Emblem costs for **3 Ninjutsu** **9 combat arts** **4
 
 ##  Key Features  
 - **Zero Resource Management**: Use abilities infinitely without emblem costs  
-- **Seamless Integration**: Works with NG+, Reflections of Strength, and gauntlets  
+- **Seamless Integration**: Works with Reflections of Strength, and gauntlets  
  
 
 ---
