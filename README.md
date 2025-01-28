@@ -2,7 +2,7 @@
 *Remove Spirit Emblem Costs for Complete Combat Freedom*
 
 ##  Overview  
-This mod eliminates Spirit Emblem costs for **3 Ninjutsu** **9 combat arts** **40 prosthetic tools** in Sekiro, enabling unrestricted experimentation while maintaining core game balance.
+This mod eliminates Spirit Emblem costs for **3 Ninjutsu** **, 9 combat arts** **, 40 prosthetic tools** in Sekiro, enabling unrestricted experimentation while maintaining core game balance.
 
 ---
 
