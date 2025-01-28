@@ -1,11 +1,11 @@
-#EquipParamGoods (Ninjutsu) 
+- EquipParamGoods (Ninjutsu) 
 
 Bloodsmoke Ninjutsu 
 Puppet Ninjutsu    
 Bestowal Ninjutsu   
 
 
-#EquipParamWeapon (Combat Arts) 
+- EquipParamWeapon (Combat Arts) 
 
 
 Dragon Flash             
@@ -19,7 +19,7 @@ Shadowfall
 Sakura Dance            
 
 
-#EquipParamWeapon (Prosthetics)
+- EquipParamWeapon (Prosthetics)
 
 
 Loaded Shuriken         
