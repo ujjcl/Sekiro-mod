@@ -32,7 +32,7 @@ This mod eliminates Spirit Emblem costs for **3 Ninjutsu** **9 combat arts** **4
 **Steps**  
 1. Download mod files  
 2. Place in:  
-   `Sekiro/Mods/`  
+   `Sekiro/mods/`  
   ---
 
   [Mod on Nexus Mods](https://www.nexusmods.com/sekiro/mods/2068)  
