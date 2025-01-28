@@ -13,15 +13,15 @@ This mod eliminates Spirit Emblem costs for **3 Ninjutsu** **9 combat arts** **4
 
 ---
 
-##  Modified Content  
-**Ninjutsu** (3)
+## Modified Content   
+| Category          | Quantity | Examples Included |
+|-------------------|----------|-------------------|
+| **Ninjutsu**      | 3        | Bloodsmoke, Puppet,Bestowal |
+| **Combat Arts**   | 9        | Ashina Cross, Mortal Draw |
+| **Prosthetic Tools** | 40     | Shuriken, Flame Vent, Mist Raven |
 
-**Combat Arts** (9)  
+**Full Modified List:** [Modified Files](MODIFIED_LIST.md)
 
-**Prosthetic Tools** (40)  
- 
-
-*Full list available in [Modified Files](MODIFIED_LIST.md)*
 
 ---
 
@@ -35,4 +35,4 @@ This mod eliminates Spirit Emblem costs for **3 Ninjutsu** **9 combat arts** **4
    `Sekiro/Mods/`  
   ---
 
-  [Nexus Mods](https://www.nexusmods.com/sekiro/mods/2068)  
+  [Mod on Nexus Mods](https://www.nexusmods.com/sekiro/mods/2068)  
