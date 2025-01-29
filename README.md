@@ -2,6 +2,7 @@
 *Remove Spirit Emblem Costs for Complete Combat Freedom*
 
  **1.1*
+ 
 now Spiritfall does not consume Spirit Emblems, and infinite use of Sugars, Divine Confetti, and more
 ##  Overview  
 This mod eliminates Spirit Emblem costs for **3 Ninjutsu** **, 9 combat arts** **, 40 prosthetic tools** in Sekiro, enabling unrestricted experimentation while maintaining core game balance.
