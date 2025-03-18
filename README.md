@@ -1,6 +1,7 @@
 # Unlimited Prosthetic & Combat Arts Mod for Sekiro  
 *Remove Spirit Emblem Costs for Complete Combat Freedom*
 
+  [Mod on Nexus Mods](https://www.nexusmods.com/sekiro/mods/2068)  
 ##  Overview  
 This mod eliminates Spirit Emblem costs for **3 Ninjutsu** **, 9 combat arts** **, 40 prosthetic tools** in Sekiro, enabling unrestricted experimentation while maintaining core game balance.
 
@@ -35,4 +36,3 @@ This mod eliminates Spirit Emblem costs for **3 Ninjutsu** **, 9 combat arts** *
    `Sekiro/mods/`  
   ---
 
-  [Mod on Nexus Mods](https://www.nexusmods.com/sekiro/mods/2068)  
